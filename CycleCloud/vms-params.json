@@ -11,6 +11,6 @@
     "cycleIPName": { "value": "cycleserver_ip" },
     "cycleDownloadUri": { "value": "https://cycleclouddownload.blob.core.windows.net/cyclecloud680" },
     "cycleLicenseURL": {"value": "https://cyclecloudlicense.blob.core.windows.net/mooclicense/license.dat?se=2018-02-16&sp=r&sv=2017-04-17&sr=b&sig=T0wHSHGC5wsI06geur4qagao4OdldMhv9ffiTzZW8fI%3D"},
-    "rsaPublicKey": { "value": "ssh-rsa <your key>"}
+    "rsaPublicKey": { "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC5K93If4Rz1sDcUfHn+SLrsnvmW3IAbaqh+mXQcFIjxzA2X2ChiTr81oZGFqkfU31958zZGE3889/OIR3sNnM34A2HgeL0PwiOGOlyDkE7IsWESdjiQWi9PH5exe+6tpogtH/XIZ9zd/TVAYQUn5U/P0WdBLa5gdPYrJbS7mqmW0uSrL8p880PQW9VEuS/axr5LT5QsAQUO8oXcKaL04DK/htW5oIylJ587t51PygXUO1qzg1ZJ6sEpjhgCDpFEHahdJ1xp4jSoGqqPb2JpIWQgPwecRFV2X0Qa7S2haHbOexzDqhbynIG6sqpxIMmOwd9n9LgXr1z3AKt+97Jxba7uaycmYpK+ZsZ977v//qDtseT0CmviI4MM8MBYDloLVHb+9pZoKDubUF1P+RJU4MOOO3qr//kfg6xgvxMUQOEI0l7Ms0qhZ46M4gaSgbx19143+cDtfrVPtIJPygmjXtxGL5nJE+78ruTvAWCS06BumjLnT+IVsdnrw3H/ce+uSkTjLash0XojRyQ2wa0RPSyPhdQ9Vo8APX9r+nCrf2/ch+79qMqN0bW0hMT/3oMX7nCnmrsFmJN9EsqJzAMcJMBRp21kw3ixSTjSw3zNXqA/kaLCoVqjOUqaA5r+TVq4pqzG5dBAf2Zu9sbP/UbZlR7m/eFowkOofunlWVSdlmJNQ== jozsef.vadkerti@hotmail.com"}
   }
 }
